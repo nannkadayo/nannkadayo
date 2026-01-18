@@ -1,5 +1,31 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nannkadayo/nannkadayo/master/img/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nannkadayo/nannkadayo/master/img/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nannkadayo/nannkadayo/master/img/snake.svg">
-</picture>
+https://nannkadayo.github.io/pgphtml/
+自分のPGP公開鍵と署名メッセージを置いておきます。いざというときのために
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+xjMEaWuCShYJKwYBBAHaRw8BAQdAAQZ6mnd6RagAkTEAhiLoN3uYxXgDW7ew
+gqJzWVlkqcvNJW5hbm5rYWRheW8gPHdpbnRlcmNvbGQ3NDU4QGdtYWlsLmNv
+bT7CjAQQFgoAPgWCaWuCSgQLCQcICZCa+0M0Ty7n/wMVCAoEFgACAQIZAQKb
+AwIeARYhBF1QbDbc689pkDXrO5r7QzRPLuf/AABSZQD/aKOBUkOPwaTpMHc0
+iJlisf4bl0ztDGEux/tRvionGHkA/0Qhum9h8pdmhnvj2Pmv8f1Y4HmqkVIx
+Qc3ZbOvyFnEBzjgEaWuCShIKKwYBBAGXVQEFAQEHQJKB8WR2DWSrQfiEl2eb
+NX1/yhQn7BIudQGBy3gYweIKAwEIB8J4BBgWCgAqBYJpa4JKCZCa+0M0Ty7n
+/wKbDBYhBF1QbDbc689pkDXrO5r7QzRPLuf/AADpbgEArye3SGpYrWiIE0Wg
+Lpq/hk9trPsvEiaxmIu7NfT/qNUBAJy0zA7jWeb3dTfoANbSy05HNTWjWq3V
+eh+0KvV8cm0K
+=2/67
+-----END PGP PUBLIC KEY BLOCK-----
+```
+```
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+私はnannkadayoであり、山形に住む逸般的な人間です
+-----BEGIN PGP SIGNATURE-----
+
+wnUEARYKACcFgmlrgn8JkJr7QzRPLuf/FiEEXVBsNtzrz2mQNes7mvtDNE8u
+5/8AAMiUAQDHCJImjYqcbeWNflBRBDDAZQQmD4CI2bNun+QQV0sAuAD/RtuC
+oFPb7kBGc65QtN2fRBQDHc67As+5gjAMxZCWFAc=
+=8YYy
+-----END PGP SIGNATURE-----
+```
